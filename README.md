@@ -1,1 +1,1 @@
-<img src="files/touchdown.gif" width="300">
+<img src="files/touchdown-demo.gif" width="300">
